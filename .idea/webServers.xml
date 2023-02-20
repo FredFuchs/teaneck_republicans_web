@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd54328f-fa66-426f-a458-472f80115d91" name="nameCheap" url="http://www.fredfuchs.com">
+        <fileTransfer rootFolder="/home/heelsvwj" accessType="SFTP" host="server221.web-hosting.com" port="21098" sshConfigId="2e0d5223-2fee-4621-89d3-8f625d521949" sshConfig="heelsvwj@server221.web-hosting.com:21098 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
