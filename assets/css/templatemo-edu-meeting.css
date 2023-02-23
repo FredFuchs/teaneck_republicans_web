@@ -573,6 +573,7 @@ header
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
     color: #1e1e1e;
+    font-size: initial;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -1806,7 +1807,7 @@ responsive
   }
 
   section.upcoming-meetings {
-    padding-top: 400px;
+    padding-top: 460px;
   }
 
   section.upcoming-meetings .categories {
@@ -1850,5 +1851,4 @@ responsive
   .header-area .main-nav .nav li ul.sub-menu li a {
     color: #1f272b;
   }
-
 }
