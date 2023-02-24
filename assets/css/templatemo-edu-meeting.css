@@ -795,6 +795,13 @@ services
   margin: 0 auto;
 }
 
+.services .item .icon img {
+  --padding: 7px;
+  border: 2px solid #f5a425;
+  border-radius: 50%;
+  padding: var(--padding);
+}
+
 .services .item h4 {
   margin-top: 25px;
   margin-bottom: 15px;
