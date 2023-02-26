@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/teneck_republicans_web.iml" filepath="$PROJECT_DIR$/.idea/teaneck_republicans_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teaneck_republicans_web.iml" filepath="$PROJECT_DIR$/.idea/teaneck_republicans_web.iml" />
     </modules>
   </component>
 </project>
